@@ -37,11 +37,8 @@ const users = [firstUser, secondUser];
 
 // ! JANGAN MODIFIKASI LINE DI BAWAH
 function main() {
-    // console.log(users.length || users.size);
-    // console.log(users);
-    // console.log(typeof(users[0].favoriteRestaurant));
-    // console.log(typeof(users[1].favoriteRestaurant));
-    // console.log(users[0].favoriteRestaurant);
+    console.log(users.length || users.size);
+    console.log(users);
 }
 
 main();
